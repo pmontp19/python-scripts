@@ -1,4 +1,4 @@
 Editorial
 =========
 
-Some python scripts and Editorial for iPad workflows
+Some python scripts and Editorial (for iPad) workflows
